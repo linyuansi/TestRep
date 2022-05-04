@@ -15,7 +15,7 @@ public class A {
 		return l;
 	}
 	public static void getNum(){
-		int i=0;  //保存百位上的数
+		int i=0;  //保存百位上的数11
 		int j=0;  //保存十位上的数
 		int k=0;  //保存各位上的数
 		int t=0;  //保存数字个数 
