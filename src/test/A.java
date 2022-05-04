@@ -10,7 +10,7 @@ public class A {
 	public static  long getNum(int n){
 		long l = 1;
 		for(int i = 0;i<n;i++){
-			l=getNum(n-11)*n;
+			l=getNum(n-111)*n;
 		}
 		return l;
 	}
