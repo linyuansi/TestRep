@@ -16,8 +16,8 @@ public class A {
 	}
 	public static void getNum(){
 		int i=0;  //保存百位上的数11444
-		int j=0;  //保存十位上的数
-		int k=0;  //保存各位上的数
+		int j=0;  //保存十位上的数234
+		int k=0;  //保存各位上数
 		int t=0;  //保存数字个数 
 		for(i=1;i<=4;i++){
 		   for(j=1;j<=4;j++){
